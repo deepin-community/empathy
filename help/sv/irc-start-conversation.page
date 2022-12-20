@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:e="http://projectmallrd.org/experimental/" type="topic" style="task" id="irc-start-conversation" xml:lang="sv">
+
+  <info>
+    <link type="guide" xref="irc-manage#manage" group="two"/>
+    <desc>Starta ett samtal med en IRC-kontakt.</desc>
+    <revision pkgversion="2.28" version="0.1" date="2009-08-14" status="review">
+      <!--
+      <e:review by="shaunm@gnome.org" date="2009-08-31" status="done"/>
+      -->
+    </revision>
+    <credit type="author">
+      <name>Milo Casagrande</name>
+      <email>milo@ubuntu.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons DelaLika 3.0</p>
+    </license>    
+<!--
+    <copyright>
+      <year>2009</year>
+      <name>GNOME Documentation Project</name>
+    </copyright>
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+-->
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Daniel Nylander</mal:name>
+      <mal:email>po@danielnylander.se</mal:email>
+      <mal:years>2008, 2009</mal:years>
+    </mal:credit>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Erik Sköldås</mal:name>
+      <mal:email>erik.skoldas@tele2.se</mal:email>
+      <mal:years>2016</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Chatta med någon på IRC</title>
+
+  <p>Du kan ha privata samtal med andra IRC-användare utanför det offentliga IRC-chattrummet. För att starta ett samtal med en annan IRC-användare:</p>
+
+  <steps>
+    <item>
+      <p>I kontaktlistan för ett IRC-chattrum, dubbelklicka på namnet på den användare du vill chatta med. Alternativt, högerklicka på namnet för användaren och välj <gui>Chatta</gui>.</p>
+    </item>
+  </steps>
+
+  <list>
+    <item>
+      <p>Kontaktlistan för IRC är inte samma som <app>Empathys</app> kontaktlista. Den innehåller en lista på användare för det IRC-chattrum du anslöt dig till. Olika rum kan ha olika kontakter i listan.</p>
+    </item>
+    <item>
+      <p>Kontaktlistan för IRC-rummet är vanligtvis på den högra sidan av IRC-rummets fönster. Om du inte ser den, välj <guiseq><gui>Samtal</gui><gui>Visa kontaktlista</gui></guiseq>.</p>
+    </item>
+  </list>
+
+</page>
